@@ -30,4 +30,4 @@ def crop_image_to_content(image_path, output_path):
         print("No se encontró contenido en la imagen para recortar.")
 
 # Usar la función con un ejemplo
-crop_image_to_content('Portada libro 2011.png', 'imagen_recortada.png')
+crop_image_to_content('Portada libro 2011MAT 24.png', 'imagen_recortada.png')

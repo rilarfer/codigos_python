@@ -22,4 +22,4 @@ def merge_pdfs(pdf_list, output_path):
         merger.close()
 
 # Usar la función con un ejemplo
-merge_pdfs(['00 Portada.pdf', '01 Portada Interna.pdf', '02 Presentación.pdf', '03 Índice.pdf', '04 Matrices.pdf', '05 Geometria Analitica Vectorial.pdf', '06 Límites.pdf', '07 Teoría de Derivadas.pdf', '08 Aplicaciones de la Derivada.pdf', '09 Apéndice.pdf', '10 Contraportada.pdf'], 'archivo_combinado_2.pdf')
+merge_pdfs(['00_Portada.pdf', '01_Portada Interna MII.pdf', '02_Presentación.pdf', '03_Índice.pdf', '04_INTEGRAL INDEFINIDA.pdf', '05_LA INTEGRAL DEFINIDA.pdf', '06_EL SISTEMA DE COORDENADAS POLARES.pdf', '07_APLICACIONESDE LA INTEGRAL DEFINIDA.pdf', '08_SUCESIONES y SERIES F.pdf', '09_FORMULARIO.pdf'], 'archivo_combinado.pdf')
